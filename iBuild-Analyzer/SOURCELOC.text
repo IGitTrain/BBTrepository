@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+BBTLIVE objects:
+    Objects with source in library BBTLIVE: 14
+
+Detail report:
+BBTLIVE objects:
+    Objects with source in library BBTLIVE:
+        *MODULE RPGLE   BBTLIVE/CUSMAIN                     
+        *FILE DSPF      BBTLIVE/MAINMENU                    
+        *MODULE RPGLE   BBTLIVE/CUSMNT                      
+        *FILE LF        BBTLIVE/CUSMSTL1                    
+        *FILE PF        BBTLIVE/CUSMST                      
+        *FILE DSPF      BBTLIVE/MNTMENU                     
+        *MODULE RPGLE   BBTLIVE/SCHNAM                      
+        *FILE LF        BBTLIVE/CUSMSTL3                    
+        *FILE DSPF      BBTLIVE/SCHNAMD                     
+        *MODULE RPGLE   BBTLIVE/SCHZIP                      
+        *FILE LF        BBTLIVE/CUSMSTL2                    
+        *FILE DSPF      BBTLIVE/SCHZIPD                     
+        *PGM RPGLE      BBTLIVE/SCHNAMRPG                   
+        *CMD            BBTLIVE/CUSTMAINT                   
+End of Source Location Report.

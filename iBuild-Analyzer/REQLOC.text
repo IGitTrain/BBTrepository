@@ -1,0 +1,24 @@
+Requisite Location Report
+Summary report:
+BBTLIVE objects:
+    Objects with requisites in library BBTLIVE: 14
+    Objects with requisites in library BBTLIVE: 14
+
+Detail report:
+BBTLIVE objects:
+    Objects with requisites in library BBTLIVE:
+        *CMD            BBTLIVE/CUSTMAINT                   
+        *FILE PF        BBTLIVE/CUSMST                      
+        *FILE LF        BBTLIVE/CUSMSTL1                    
+        *FILE LF        BBTLIVE/CUSMSTL2                    
+        *FILE LF        BBTLIVE/CUSMSTL3                    
+        *FILE DSPF      BBTLIVE/MAINMENU                    
+        *FILE DSPF      BBTLIVE/MNTMENU                     
+        *FILE DSPF      BBTLIVE/SCHNAMD                     
+        *FILE DSPF      BBTLIVE/SCHZIPD                     
+        *MODULE RPGLE   BBTLIVE/CUSMAIN                     
+        *MODULE RPGLE   BBTLIVE/CUSMNT                      
+        *MODULE RPGLE   BBTLIVE/SCHNAM                      
+        *MODULE RPGLE   BBTLIVE/SCHZIP                      
+        *PGM RPGLE      BBTLIVE/CUSTMAINT                   
+End of Requisite Location Report.
